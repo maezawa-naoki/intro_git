@@ -1,3 +1,4 @@
 gitの練習用ファイルです
 - git add
-- git commit
+- git commita.
+
