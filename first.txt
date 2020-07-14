@@ -2,3 +2,4 @@ gitの練習用ファイルです
 - git add
 - git commita.
 
+gitのコマンドはいろいろある～
